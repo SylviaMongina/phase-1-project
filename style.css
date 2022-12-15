@@ -14,7 +14,7 @@ p {
    justify-content: space-around; 
 }
 logo{
-    color:black;
+    color:rgb(197, 53, 53);
     font-size: 35px;
     letter-spacing: 1px;
     cursor: pointer;
@@ -39,7 +39,7 @@ span{
 }
 #navbar a:hover
 {
-    color:red;
+    color: aqua;
     transition: 3s;
 
 }
