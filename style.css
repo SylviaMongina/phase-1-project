@@ -3,7 +3,7 @@ body {
 	background: white;
 }
 p {
-	font-size: 100px;
+	font-size: 20px;
 }
 
 #Header {
@@ -17,4 +17,22 @@ p {
 }
 h1 {
 	background-color: pink;
+}
+.makeup-products {
+	justify-self: center;
+	height: 15rem;
+	width: auto;
+	border: 2px solid #555;
+}
+.card {
+	background-color: pink;
+	text-align: center;
+	border: grey solid 1px;
+	padding: 5rem;
+	width: 12rem;
+	height: 22rem;
+	display: inline-grid;
+	margin: 7rem 2rem;
+	box-shadow: 3px 4px #e04b52;
+	position: relative;
 }
