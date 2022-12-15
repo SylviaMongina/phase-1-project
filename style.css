@@ -53,3 +53,61 @@ button2:hover {
 	border: #e04b52 solid 20px;
 	color: #e04b52;
 }
+h1 {
+	color: #eee;
+	margin-bottom: 30px;
+}
+button:hover {
+	background-color: red;
+}
+.desc {
+	position: absolute;
+	display: none;
+	width: 250px;
+	height: auto;
+	background-color: rgba(128, 128, 128, 0.463);
+	border-radius: 5px;
+	padding: 10px;
+
+	left: 70%;
+	top: 50%;
+	z-index: 1;
+}
+
+.cart {
+	width: 150px;
+	height: 35px;
+	float: right;
+	padding: 5px;
+	border-radius: 5px;
+	background-color: rgb(255, 166, 0);
+	color: black;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	cursor: pointer;
+}
+.cart:hover {
+	background-color: rgba(255, 166, 0, 0.81);
+}
+.cart span {
+	font-weight: bold;
+	display: inline-block;
+	margin-right: 10px;
+	color: white;
+}
+
+
+.cart-section h1 {
+	width: 350px;
+	padding: 10px;
+	border-radius: 5px;
+	background-color: rgb(60, 60, 156);
+	text-align: center;
+	margin: 0 auto;
+}
+
+.hide {
+	display: none;
+}
