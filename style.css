@@ -36,3 +36,20 @@ h1 {
 	box-shadow: 3px 4px #e04b52;
 	position: relative;
 }
+button {
+	position: relative;
+	background-color: white;
+	border: none;
+	border-radius: 100px;
+	height: 6rem;
+	width: auto;
+	color: red;
+	font-size: 70px;
+	justify-self: center;
+}
+
+button2:hover {
+	background-color: whitesmoke;
+	border: #e04b52 solid 20px;
+	color: #e04b52;
+}
