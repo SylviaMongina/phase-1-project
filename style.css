@@ -21,7 +21,7 @@ logo{
 
 }
 span{
-    color: burlywood;
+    color: rgb(141, 135, 222);
 }
 #navbar ul{
     list-style-type: none;
@@ -119,6 +119,11 @@ h1 {
 	color: #eee;
 	margin-bottom: 30px;
 }
+h4{
+    color: black;
+    font-size: 23px;
+    margin-bottom: 15px;
+}
 button:hover {
 	background-color: red;
 }
@@ -177,7 +182,7 @@ button:hover {
 .footer
 {
     background-color: #0b000002;
-    color:rgb(255, 255, 255);
+    color:rgb(204, 43, 131);
     padding: 20px;
     display: flex;
     justify-content: space-evenly;
