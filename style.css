@@ -63,11 +63,7 @@ span{
 .btn:hover{
     transform:scale(1.2);
 }
-h1  {
-    color: #000;
-    font-family: "Quicksand", Arial, sans-serif;
-    font-weight: 400;
-    margin: 0 0 30px 0; }
+
 #Header {
 	display: flex;
 	justify-content: center;
@@ -78,7 +74,9 @@ h1  {
 	size: 39pc;
 }
 h1 {
-	background-color: pink;
+    color: black;
+    font-family: "Quicksand", Arial, sans-serif;
+    margin: 0 0 30px 0
 }
 .makeup-products {
 	justify-self: center;
@@ -115,10 +113,7 @@ button2:hover {
 	border: #e04b52 solid 20px;
 	color: #e04b52;
 }
-h1 {
-	color: #eee;
-	margin-bottom: 30px;
-}
+
 h4{
     color: black;
     font-size: 23px;
