@@ -13,16 +13,8 @@ p {
    align-items: center;
    justify-content: space-around; 
 }
-logo{
-    color:rgb(197, 53, 53);
-    font-size: 35px;
-    letter-spacing: 1px;
-    cursor: pointer;
 
-}
-span{
-    color: rgb(141, 135, 222);
-}
+
 #navbar ul{
     list-style-type: none;
     display: inline block;
@@ -50,19 +42,7 @@ span{
     padding: 20px;
     display: inline;
 }
-.btn{
-    background-color: red;
-    color: white;
-    text-decoration: none;
-    border: 2px solid transparent;
-    font-weight: bold;
-    padding: 10px 25px;
-    border-radius: 30px;
-    transition:transform 4s;
-}
-.btn:hover{
-    transform:scale(1.2);
-}
+
 
 #Header {
 	display: flex;
@@ -75,8 +55,6 @@ span{
 }
 h1 {
     color: black;
-    font-family: "Quicksand", Arial, sans-serif;
-    margin: 0 0 30px 0
 }
 .makeup-products {
 	justify-self: center;
@@ -165,7 +143,6 @@ button:hover {
 	width: 350px;
 	padding: 10px;
 	border-radius: 5px;
-	background-color: rgb(60, 60, 156);
 	text-align: center;
 	margin: 0 auto;
 }
@@ -178,12 +155,10 @@ button:hover {
 {
     background-color: #0b000002;
     color:rgb(204, 43, 131);
-    padding: 20px;
+    padding: 100px;
     display: flex;
-    justify-content: space-evenly;
-}
-.footercontact {
+    justify-content: space-around;
+    margin-bottom: 20px;
     width: 100%;
-    padding: 100px 0;
-
+    
 }
