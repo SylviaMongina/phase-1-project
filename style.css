@@ -151,7 +151,7 @@ button:hover {
 	cursor: pointer;
 }
 .cart:hover {
-	background-color: rgba(255, 166, 0, 0.81);
+	background-color: rgba(240, 14, 149, 0.81);
 }
 .cart span {
 	font-weight: bold;
@@ -181,4 +181,9 @@ button:hover {
     padding: 20px;
     display: flex;
     justify-content: space-evenly;
+}
+.footercontact {
+    width: 100%;
+    padding: 100px 0;
+
 }
