@@ -1,10 +1,11 @@
-
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css");
 body {
 	background: white;
 }
 p {
 	font-size: 20px;
 }
+/* Navbar */
 #navbar
 {
     padding: 20px;
@@ -41,6 +42,8 @@ p {
     padding: 20px;
     display: inline;
 }
+
+
 #Header {
 	display: flex;
 	justify-content: center;
@@ -51,11 +54,7 @@ p {
 	size: 39pc;
 }
 h1 {
-	background-color: rgb(192, 243, 255);
-}
-h2{
-    font-style: italic;
-
+    color: black;
 }
 .makeup-products {
 	justify-self: center;
@@ -64,7 +63,7 @@ h2{
 	border: 2px solid #555;
 }
 .card {
-	background-color: rgba(255, 192, 203, 0.001);
+	background-color: pink;
 	text-align: center;
 	border: grey solid 1px;
 	padding: 5rem;
@@ -72,10 +71,9 @@ h2{
 	height: 22rem;
 	display: inline-grid;
 	margin: 7rem 2rem;
-	box-shadow: 3px 4px #050404;
+	box-shadow: 3px 4px #e04b52;
 	position: relative;
 }
-
 button {
 	position: relative;
 	background-color: white;
@@ -94,16 +92,14 @@ button2:hover {
 	color: #e04b52;
 }
 
-h1 {
-	color: rgb(6, 6, 6);
-	margin-bottom: 30px;
+h4{
+    color: black;
+    font-size: 23px;
+    margin-bottom: 15px;
 }
 button:hover {
 	background-color: red;
 }
-
-/* // styling description */
-
 .desc {
 	position: absolute;
 	display: none;
@@ -124,7 +120,7 @@ button:hover {
 	float: right;
 	padding: 5px;
 	border-radius: 5px;
-	background-color: rgb(185, 10, 150);
+	background-color: rgb(255, 166, 0);
 	color: black;
 
 	display: flex;
@@ -133,7 +129,7 @@ button:hover {
 	cursor: pointer;
 }
 .cart:hover {
-	background-color: rgba(202, 37, 12, 0.81);
+	background-color: rgba(240, 14, 149, 0.81);
 }
 .cart span {
 	font-weight: bold;
@@ -147,7 +143,6 @@ button:hover {
 	width: 350px;
 	padding: 10px;
 	border-radius: 5px;
-	background-color: rgb(60, 60, 156);
 	text-align: center;
 	margin: 0 auto;
 }
@@ -155,17 +150,15 @@ button:hover {
 .hide {
 	display: none;
 }
-h4{
-    color: black;
-    font-size: 23px;
-    margin-bottom: 15px;
-}
-footer{
+/* Footer */
+.footer
+{
+    background-color: #0b000002;
+    color:rgb(204, 43, 131);
+    padding: 100px;
     display: flex;
-    background-color: #e04b52;
     justify-content: space-around;
     margin-bottom: 20px;
-    padding: 100px;
-  
-
+    width: 100%;
+    
 }

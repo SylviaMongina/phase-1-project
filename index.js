@@ -43,7 +43,7 @@ function inputData(makeupInfo) {
 
 	img.src = 'https:' + makeupInfo.api_featured_image; //concatenation
 	name.innerText = makeupInfo.name;
-	price.innerText = `Price: $${makeupInfo.price}`;
+	price.innerText = `Price: Ksh${makeupInfo.price}`;
 	divCard.append(name, img, price, btn, ratingCounter, cart, desc);
 
 	img.addEventListener('mouseover', function () {
