@@ -63,6 +63,7 @@ h2{
 	height: 15rem;
 	width: auto;
 	border: 2px solid #555;
+    
 }
 .card {
 	background-color: rgba(255, 192, 203, 0.001);
@@ -75,6 +76,9 @@ h2{
 	margin: 7rem 2rem;
 	box-shadow: 3px 4px #050404;
 	position: relative;
+    font-style: italic;
+    font-size: medium;
+    font-family: fantasy;
 }
 
 button {

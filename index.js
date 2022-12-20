@@ -90,6 +90,7 @@ function addtoCart(item) {
 	}
 
 	updateCartLabel();
+    
 }
 
 function updateCartLabel() {
@@ -112,3 +113,4 @@ cartContainer.addEventListener('click', function () {
 
 	cartSection.classList.remove('hide');
 });
+
