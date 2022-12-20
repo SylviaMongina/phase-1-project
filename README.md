@@ -12,7 +12,7 @@ Welcome to Glam Girls Online store that purely deals in maybelline makeup produc
 ![cart](https://user-images.githubusercontent.com/117803357/208601528-87ead671-1999-465e-9c36-a8379e2ee0fb.png)
 
 ## Technologies Used
-   1.HTML (https://html.com/)
+   * [HTML](https://html.com/)
    2.Md Bootstrap(http://www.bootstrap.com/)
    3.Visual Studio as text editor(https://code.visualstudio.com/download)
    4.CSS(http://css.com/)
