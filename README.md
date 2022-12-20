@@ -11,10 +11,18 @@ Welcome to Glam Girls Online store that purely deals in maybelline makeup produc
 ![footer](https://user-images.githubusercontent.com/117803357/208601497-0eb3da55-9629-46e4-9dbc-960b6efbbe8e.png)
 ![cart](https://user-images.githubusercontent.com/117803357/208601528-87ead671-1999-465e-9c36-a8379e2ee0fb.png)
 
+## Core Deliverables
+As a user one can 
+   * View all products available.
+   * View the home page by clicking the home button  on the navigation bar.
+   * View all product descriptions.
+   * I can add products to by cart clicking the love button.
+   * Add similar products by tappibg the love button multiple items.
+   * The profile button on the navigation bar allows you to signup or login by filling in a form.
 ## Technologies Used
    * [HTML](https://html.com/)
    * [Md Bootstrap](http://www.bootstrap.com/)
-   * [Visual Studio ]as text editor(https://code.visualstudio.com/download)
+   * [Visual Studio ](https://code.visualstudio.com/download)
    * [CSS](http://css.com/)
    * JavaScript
 
