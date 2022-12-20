@@ -40,7 +40,7 @@ As a user one can :
 
 ## Limitations.
    As a user am not able to view all the items on my cart and track them for delivery.
-   
+
 ## Technologies Used
    * [HTML](https://html.com/)
    * [Md Bootstrap](http://www.bootstrap.com/)
@@ -50,6 +50,9 @@ As a user one can :
 
 ## Contact Information
    Email:sylvia.bosire@student.moringaschool.com
+
+## API Source
+["http://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline"]
 
 ## [License](LICENSE)
    
