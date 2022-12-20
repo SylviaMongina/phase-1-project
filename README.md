@@ -25,6 +25,9 @@ Welcome to Glam Girls Online store that purely deals in maybelline makeup produc
 ![cart](https://user-images.githubusercontent.com/117803357/208601528-87ead671-1999-465e-9c36-a8379e2ee0fb.png)
 
 
+**When you hover the mouse over a product you are able to see the product description of each product**
+![product des](https://user-images.githubusercontent.com/117803357/208606424-f317d4a8-bba1-4c18-b088-3981d21b640d.png)
+
 ## Core Deliverables
 As a user one can :
    * View all products available.
