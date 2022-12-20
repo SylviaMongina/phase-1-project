@@ -5,6 +5,19 @@
 ## Project Description
 Welcome to Glam Girls Online store that purely deals in maybelline makeup products.On this website you can be able to view products and their descriptions in order to make an informed decision in your purchase.The prices are very pocket friendly as well as dermatoligically approved for your skin.
 
+
+## Set Up
+Run this command to get the backend started:
+
+```console
+$ json-server --watch db.json
+```
+ open the `index.html` file on your browser to run the application.
+
+Write your code in the `index.js` file. The base URL for your API will be
+[http://localhost:3000](http://localhost:3000).
+
+
 ## Screenshots of Functionalities
 
 **This is the view of the landing page.**
@@ -52,7 +65,7 @@ As a user one can :
    Email:sylvia.bosire@student.moringaschool.com
 
 ## API Source
-["http://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline"]
+"http://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline"
 
 ## [License](LICENSE)
    
