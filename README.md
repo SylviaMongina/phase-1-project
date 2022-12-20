@@ -10,3 +10,18 @@ Welcome to Glam Girls Online store that purely deals in maybelline makeup produc
 ![myhomepage](https://user-images.githubusercontent.com/117803357/208601465-8e91d246-b4e6-41e8-a425-70f714ccc7af.png)
 ![footer](https://user-images.githubusercontent.com/117803357/208601497-0eb3da55-9629-46e4-9dbc-960b6efbbe8e.png)
 ![cart](https://user-images.githubusercontent.com/117803357/208601528-87ead671-1999-465e-9c36-a8379e2ee0fb.png)
+
+## Technologies Used
+   1.HTML (https://html.com/)
+   2.Md Bootstrap(http://www.bootstrap.com/)
+   3.Visual Studio as text editor(https://code.visualstudio.com/download)
+   4.CSS(http://css.com/)
+   5.JavaScript
+
+## Contact Information
+   Email:sylvia.bosire@student.moringaschool.com
+
+## [License](LICENSE)
+   
+MIT License
+Copyright (c) 2022 Sylvia Bosire.
