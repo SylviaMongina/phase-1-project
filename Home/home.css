@@ -8,13 +8,18 @@ body{
     padding-right: 5%; 
     height: 100vh; 
     width: 100%;
-    background-image: url(../images/bg4.jpeg);
+    background-image: url(../images/bg2.jpg);
     background-size: cover;
     background-position: center;
 }
 p{
+color: white;
 font-style: italic;
 font-family:"Quicksand", Arial, sans-serif;
 font-weight: 400;
 align-content: center;
+font-weight: bold;
+margin-top: 250px;
+margin-left: 5cm;
+font-size: larger;
 }
